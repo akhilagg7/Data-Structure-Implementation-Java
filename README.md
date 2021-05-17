@@ -4,3 +4,4 @@
 2. [Stack Using Array](https://github.com/akhilagg7/Data-Structure-Implementation-Java/blob/master/StackUsingArray.java)
 3. [Stack Using Linked List](https://github.com/akhilagg7/Data-Structure-Implementation-Java/blob/master/StackUsingLinkedList.java)
 4. [Queue Using Array](https://github.com/akhilagg7/Data-Structure-Implementation-Java/blob/master/QueueUsingArray.java)
+5. [Queue Using Linked List -> Currently Working](https://github.com/akhilagg7/Data-Structure-Implementation-Java/blob/master/QueueUsingLinkedList.java)
