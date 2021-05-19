@@ -6,4 +6,6 @@
 4. [Queue Using Array](https://github.com/akhilagg7/Data-Structure-Implementation-Java/blob/master/QueueUsingArray.java)
 5. [Queue Using Linked List](https://github.com/akhilagg7/Data-Structure-Implementation-Java/blob/master/QueueUsingLinkedList.java)
 6. [Generic Tree](https://github.com/akhilagg7/Data-Structure-Implementation-Java/blob/master/GenericTree.java)
+7. [Binary Tree](https://github.com/akhilagg7/Data-Structure-Implementation-Java/blob/master/BinaryTree.java)
+8. [Priority Queue ->Currently Working](https://github.com/akhilagg7/Data-Structure-Implementation-Java/blob/master/priorityQueue.java)
 
